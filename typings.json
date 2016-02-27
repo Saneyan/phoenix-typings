@@ -1,0 +1,7 @@
+{
+  "name": "typings",
+  "main": "phoenix.d.ts",
+  "author": "TADOKORO Saneyuki <saneyan@seginus.io>",
+  "description": "Type definitions for phoenix.js bundled in Phoenix Framework",
+  "dependencies": {}
+}

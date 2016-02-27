@@ -1,0 +1,13 @@
+{
+  "name": "phoenix-typings",
+  "description": "Type definitions for phoenix.js bundled in Phoneix Framework.",
+  "version": "0.0.1",
+  "typescript": {
+    "definition": "phoenix.d.ts"
+  },
+  "author": {
+    "name": "TADOKORO Saneyuki",
+    "email": "saneyan@gfunction.com",
+    "url": "https://github.com/Saneyan"
+  }
+}
