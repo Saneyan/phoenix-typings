@@ -9,5 +9,10 @@
     "name": "TADOKORO Saneyuki",
     "email": "saneyan@gfunction.com",
     "url": "https://github.com/Saneyan"
-  }
+  },
+  "devDependencies": {
+    "typescript": "^1.8.2",
+    "typings": "^0.6.8"
+  },
+  "typings": "phoenix.d.ts"
 }
